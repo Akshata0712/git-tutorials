@@ -1,5 +1,0 @@
-[node01]
-35.182.204.107 ansible_user=ec2-user
-[node02]
-35.183.135.142 ansible_user=ec2-user
-day 2
